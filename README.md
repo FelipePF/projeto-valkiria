@@ -3,7 +3,7 @@
 **Projeto inspirado no livro [Linux From Scratch 12.3 - systemd (PT-BR)](https://www.linuxfromscratch.org/lfs/)**
 
 ## Objetivo
-O **Projeto Valquíria** é uma distribuição Linux minimalista, seguindo o estilo KISS, mas com foco em **facilidade de customização pelo usuário**. O projeto tem caráter **educacional e experimental**, permitindo que usuários aprendam o funcionamento interno do Linux construindo sua própria distro a partir do zero.
+O **Projeto Valquíria** é uma distribuição Linux minimalista, seguindo o estilo KISS, mas com foco em **facilidade de customização pelo usuário**.
 
 ## Status do Projeto
 Atualmente, o projeto está em **fase de documentação e planejamento**, com anotações iniciais sobre a construção da distro. Scripts e imagens de instalação ainda serão desenvolvidos.
